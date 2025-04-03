@@ -17,10 +17,10 @@ The table below presents the completed challenges, with direct links to the flow
 
 | Challenge | Description | Flowchart [(Draw.io)](https://app.diagrams.net/) | Code (JavaScript) |
 |:--------:|------------|:--------------------:|:-------------------:|
-| [Day 01](https://www.100daysofcode.io/learn/algorithms/two-sum) | Two Sum | [Link](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/Day01.drawio) | [Link](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/js/Day01.js) |
-| [Day 02](https://www.100daysofcode.io/learn/algorithms/valid-anagram) | Valid Anagram | [Link](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/Day02.drawio) | [Link](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/js/Day02.js) |
-| [Day 03](https://www.100daysofcode.io/learn/algorithms/valid-parentheses) | Valid Parentheses | [Link](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/Day03.drawio) | [Link](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/js/Day03.js) |
-| [Day 04](https://www.100daysofcode.io/learn/algorithms/plus-one) | Plus One | [Link](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/dia/Day04.drawio) | [Link](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/js/Day04.js) |
+| [Day 01](https://www.100daysofcode.io/learn/algorithms/two-sum) | Two Sum | [Link](https://github.com/fmarqueseti/100DaysAlgorithmsCodeChallenge/blob/main/dia/Day01.drawio) | [Link](https://github.com/fmarqueseti/100DaysAlgorithmsCodeChallenge/blob/main/js/Day01.js)           |
+| [Day 02](https://www.100daysofcode.io/learn/algorithms/valid-anagram) | Valid Anagram | [Link](https://github.com/fmarqueseti/100DaysAlgorithmsCodeChallenge/blob/main/dia/Day02.drawio) | [Link](https://github.com/fmarqueseti/100DaysAlgorithmsCodeChallenge/blob/main/js/Day02.js)   
+| [Day 03](https://www.100daysofcode.io/learn/algorithms/valid-parentheses) | Valid Parentheses | [Link](https://github.com/fmarqueseti/100DaysAlgorithmsCodeChallenge/blob/main/dia/Day03.drawio) | [Link](https://github.com/fmarqueseti/100DaysAlgorithmsCodeChallenge/blob/main/js/Day03.js)   
+| [Day 04](https://www.100daysofcode.io/learn/algorithms/plus-one) | Plus One | [Link](https://github.com/fmarqueseti/100DaysAlgorithmsCodeChallenge/blob/main/dia/Day04.drawio) | [Link](https://github.com/fmarqueseti/100DaysAlgorithmsCodeChallenge/blob/main/js/Day04.js)   
 | [Day 05](https://www.100daysofcode.io/learn/algorithms/day-2) | Strings (Easy) | Link           | Link           |
 | [Day 06](https://www.100daysofcode.io/learn/algorithms/day-3) | Strings (Medium) | Link           | Link           |
 | [Day 07](https://www.100daysofcode.io/learn/algorithms/day-4) | Arrays (Easy) | Link           | Link           |
